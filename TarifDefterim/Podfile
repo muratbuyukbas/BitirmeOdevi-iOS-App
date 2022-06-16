@@ -1,0 +1,17 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '13.0'
+
+target 'TarifDefterim' do
+use_modular_headers!
+use_frameworks! :linkage => :static
+  pod 'Firebase/Core'
+  pod 'Firebase/Firestore'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Analytics'
+  pod 'SDWebImage'
+  pod 'Appirater'
+inhibit_all_warnings!
+
+end
+
