@@ -22,14 +22,28 @@ Tarif Defterim is a social media app to post your food recipes.
 -Storage
 
 ### Screen Shots
-![SS1](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/login.png?raw=true)
-![SS2](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/recipe.png?raw=true)
-![SS3](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/lastrecipes.png?raw=true)
-![SS4](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/signup.png?raw=true)
-![SS5](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/settings.png?raw=true)
-![SS6](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/addrecipe.png?raw=true)
-![SS7](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/explore.png?raw=true)
-![SS8](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/followers.png?raw=true)
-![SS9](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/profile.png?raw=true)
-![SS10](https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/notifications.png?raw=true)
-
+<p align="center">
+  <img alt="Light" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/login.png?raw=true" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/signup.png?raw=true" width="40%">
+</p>
+<p align="center">
+  <img alt="Light" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/profile.png?raw=true" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/explore.png?raw=true" width="40%">
+</p>
+<p align="center">
+  <img alt="Light" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/settings.png?raw=true" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/notifications.png?raw=true" width="40%">
+</p>
+<p align="center">
+  <img alt="Light" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/recipe.png?raw=true" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/followers.png?raw=true" width="40%">
+</p>
+<p align="center">
+  <img alt="Light" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/addrecipe.png?raw=true" width="40%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/muratbuyukbas/BitirmeProjesi-iOS-App/blob/main/Screen%20Shots/lastrecipes.png?raw=true" width="40%">
+</p>
